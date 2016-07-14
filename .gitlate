@@ -1,0 +1,6 @@
+source_branch: master
+target_branch: japanese
+source_lang: en
+target_lang: ja
+paths:
+  doc/*.md: doc/ja
