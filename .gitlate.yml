@@ -1,3 +1,4 @@
+source_repository_url: https://github.com/siman-man/sample_repo.git
 source_branch: master
 target_branch: japanese
 source_lang: en
