@@ -1,2 +1,2 @@
 # Sample
-This is sample.
+これはサンプルです
